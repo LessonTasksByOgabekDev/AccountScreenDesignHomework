@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DesignHomework</string>
+    <string name="ogabekdev">OgabekDev</string>
+    <string name="senior_mobile_developer">Senior Mobile Developer</string>
+    <string name="_13">13</string>
+    <string name="projects">Projects</string>
+    <string name="_7m">7M</string>
+    <string name="followers">Followers</string>
+    <string name="companies">Companies</string>
+    <string name="worked_companies">Worked Companies</string>
+    <string name="google">Google</string>
+    <string name="apple">Apple</string>
+    <string name="meta">Meta</string>
+    <string name="wairer">WAIRER</string>
+    <string name="_4">4</string>
+    <string name="pdp">PDP</string>
+    <string name="top_1_it_company">TOP 1 IT Company</string>
+    <string name="last_worked_companies">Last Worked Companies</string>
+    <string name="top_1_tech_producer_company">TOP 1 Tech Producer Company</string>
+</resources>
